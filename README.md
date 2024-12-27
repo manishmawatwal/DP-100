@@ -1,4 +1,5 @@
 # DP-100 Azure Associate Data Scientist Prep Material
+![alt text](https://github.com/)
 
 ### You are planning to host practical training to acquaint staff with Docker for Windows. Staff devices must support the installation of Docker. What are the minimum Docker Requirements?
 1.	4 GB of system RAM
